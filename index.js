@@ -4,7 +4,7 @@ import bodyParser from "body-parser";
 
 const app = express();
 const port = 3000;
-const API_URL = "http://localhost:4000";
+const API_URL = "https://secrets-api.appbrewery.com";
 
 // HINTs: Use the axios documentation as well as the video lesson to help you.
 // https://axios-http.com/docs/post_example
